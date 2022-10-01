@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **radwan.chaieb@gmail.com**
 
-<h3 align="left">Funny Jocke:</h3>
+<h3 align="left">Funny Joke:</h3>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 

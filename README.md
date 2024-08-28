@@ -1,5 +1,4 @@
-shell
-```
+shell```
 # 🚀 Welcome to SpaceHub-9000 🚀
 # --- Booting up personal profile ---
 # Please wait while we gather all systems' data...
@@ -70,8 +69,7 @@ $ listHobbies --galaxy-wide
 
 # 💬 SYSTEM LOG: Communication Channels Open
 
-shell
-```
+shell```
 # Engage with Captain [Radwan] via:
 # - Email: [radwan.chaieb@gmail.com]
 # - GitHub: [https://github.com/xzerad]
@@ -79,8 +77,7 @@ shell
 
 # 💡 Wisdom from the Stars
 
-ascii
-```
+ascii```
 "Keep your code DRY and your repositories orbiting the stars. 🚀"
 -- Captain [xzerad]
 ```
